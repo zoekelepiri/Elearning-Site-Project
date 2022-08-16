@@ -1,0 +1,57 @@
+body{
+  background-color:	/*#FFF5EE*/#FFFAFA;
+}
+
+.mainHead{
+  text-align:center;
+  background-color:/*orange*/ #87CEFA;
+  color:white;
+  padding:6px;
+}
+
+.menuBar{
+  float:left;
+  width: 11%;
+  margin: auto;
+  margin-top: 10px;
+  line-height: 1.6em;
+  border: 6px blue solid;
+  border-width: thin;
+  box-sizing: border-box;
+}
+
+.mainText{
+  float: right;
+  width: 75%;
+  font-size: 16px;
+  line-height: 1.6em;
+  margin-top: 10px;
+  box-sizing: border-box;
+}
+.center {
+  margin-left: 280px;
+  margin-right: 100px;
+
+}
+
+h2{
+  color: green;
+}
+
+span b { color: red; }
+.center {
+  margin-left: 280px;
+  margin-right: 100px;
+
+}
+#signInBtn{
+  background-color: white;
+  color: black;
+  border: 2px solid #008CBA;
+}
+#signInBtn:hover{
+  background-color: #008CBA;
+  color: white;
+}
+
+
